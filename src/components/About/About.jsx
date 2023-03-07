@@ -15,7 +15,7 @@ export const About = () => {
         
         <div className='about__me'>
           <div className='about__me-image'>
-            <img src={ME} alt="About image" />
+            <img src={ME} alt="Andres developer" />
           </div>
         </div>
 
@@ -31,13 +31,13 @@ export const About = () => {
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>1+ years working</small>
+              <small>1 Uruguay</small>
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>1+ years working</small>
+              <small>10+ Completed</small>
             </article>
           </div>
 
