@@ -53,12 +53,13 @@ export const Experience = () => {
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
+
           </div>
         </div>
 
         <div  className='experience__backend'>
           <h3>Backend Devleopment</h3>
-          <div className='experience__content'>
+          <div className    ='experience__content'>
 
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
@@ -94,6 +95,7 @@ export const Experience = () => {
 
           </div>
         </div>
+        
       </div>
     </section>
   )

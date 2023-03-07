@@ -12,25 +12,25 @@ export const Servcs = () => {
           <div className='service__head'>
             <h3>UX/UI Design</h3>
           </div>
-          <ul className='service-list'>
+          <ul className='service__list'>
             <li>
-              <BiCheck className='service-list-icon'/>
+              <BiCheck className='service__list-icon'/>
               <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
             </li>
             <li>
-              <BiCheck className='service-list-icon'/>
+              <BiCheck className='service__list-icon'/>
               <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
             </li>
             <li>
-              <BiCheck className='service-list-icon'/>
+              <BiCheck className='service__list-icon'/>
               <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
             </li>
             <li>
-              <BiCheck className='service-list-icon'/>
+              <BiCheck className='service__list-icon'/>
               <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
             </li>
             <li>
-              <BiCheck className='service-list-icon'/>
+              <BiCheck className='service__list-icon'/>
               <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
             </li>
           </ul>
@@ -40,25 +40,25 @@ export const Servcs = () => {
           <div className='service__head'>
             <h3>Web Development</h3>
           </div>
-          <ul className='service-list'>
+          <ul className='service__list'>
             <li>
-              <BiCheck className='service-list-icon'/>
+              <BiCheck className='service__list-icon'/>
               <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
             </li>
             <li>
-              <BiCheck className='service-list-icon'/>
+              <BiCheck className='service__list-icon'/>
               <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
             </li>
             <li>
-              <BiCheck className='service-list-icon'/>
+              <BiCheck className='service__list-icon'/>
               <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
             </li>
             <li>
-              <BiCheck className='service-list-icon'/>
+              <BiCheck className='service__list-icon'/>
               <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
             </li>
             <li>
-              <BiCheck className='service-list-icon'/>
+              <BiCheck className='service__list-icon'/>
               <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
             </li>
           </ul>
@@ -68,25 +68,25 @@ export const Servcs = () => {
           <div className='service__head'>
             <h3>UX/UI Design</h3>
           </div>
-          <ul className='service-list'>
+          <ul className='service__list'>
             <li>
-              <BiCheck className='service-list-icon'/>
+              <BiCheck className='service__list-icon'/>
               <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
             </li>
             <li>
-              <BiCheck className='service-list-icon'/>
+              <BiCheck className='service__list-icon'/>
               <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
             </li>
             <li>
-              <BiCheck className='service-list-icon'/>
+              <BiCheck className='service__list-icon'/>
               <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
             </li>
             <li>
-              <BiCheck className='service-list-icon'/>
+              <BiCheck className='service__list-icon'/>
               <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
             </li>
             <li>
-              <BiCheck className='service-list-icon'/>
+              <BiCheck className='service__list-icon'/>
               <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
             </li>
           </ul>
