@@ -15,23 +15,23 @@ export const Servcs = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+              <p>Create structure information of the product and business.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+              <p>Visual design and wireframing.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+              <p>User-friendly usability.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+              <p>Interactive design.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+              <p>Beta test (client feedback).</p>
             </li>
           </ul>
         </article>
@@ -43,51 +43,43 @@ export const Servcs = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+              <p>React JS library for high performance.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+              <p>Bootstrap, Material UI tools.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+              <p>Custom interfaces.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+              <p>Responsive designs.</p>
             </li>
           </ul>
         </article>
 
         <article className='service'>
           <div className='service__head'>
-            <h3>UX/UI Design</h3>
+            <h3>Backend</h3>
           </div>
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+              <p>GeneXus V18.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+              <p>Firebase / Firestore database (NoSql).</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+              <p>SQL - MySql data structure.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+              <p>Learning backend tools...</p>
             </li>
           </ul>
         </article>
