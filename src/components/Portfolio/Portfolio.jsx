@@ -3,6 +3,7 @@ import './Portfolio.css'
 import IMG1 from '../../assets/MisticProject.png'
 import IMG2 from '../../assets/BluInkProject.png'
 import IMG3 from '../../assets/FormProject.png'
+import IMG4 from '../../assets/expenses.png'
 import Swal from 'sweetalert2'
 import withReactContent from 'sweetalert2-react-content'
 
@@ -60,7 +61,23 @@ export const Portfolio = () => {
           </div>
         </article>
 
+        <article className='portfolio__item'>
+          <div className='portfolio__item-image'>
+            <img src={IMG4} alt="Budget App cover" />
+          </div>
+          <div>
+            <h3>Budget App</h3>
+            <div className="portfolio__item-cta">
+            <a href="https://github.com/aquijano93/budgetApp" className='btn' target={'_blank'} rel="noopener noreferrer" >Github</a> 
+            <a href="https://budget-app-seven-beta.vercel.app/" className='btn btn-primary' target={'_blank'} rel="noopener noreferrer">Live Demo</a>
+            </div>
+          </div>
+        </article>
+
+
+
       </div>
     </section>
   )
 }
+

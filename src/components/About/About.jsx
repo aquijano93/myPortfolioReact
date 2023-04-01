@@ -42,9 +42,7 @@ export const About = () => {
           </div>
 
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-              Excepturi at, eligendi animi ullam dolorum voluptates repellat 
-              officiis molestiae ab tenetur.
+              I am currently studying backend engineering while I continue to develop in genexus in a Java environment using the work with plus tool.
             </p>
 
             <a href="#contact" className='btn btn-primary'>Let's talk</a>

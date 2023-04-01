@@ -71,6 +71,10 @@ export const Servcs = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
+              <p>GeneXus V15 + WWplus</p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon'/>
               <p>Firebase / Firestore database (NoSql).</p>
             </li>
             <li>
